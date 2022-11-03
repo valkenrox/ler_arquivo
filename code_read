@@ -1,0 +1,15 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('C:/Users/202103055737/PycharmProjects/ler_arquivo/venv/arquivo')
+
+x = df['modelo']
+y = df['preco']
+
+plt.xlabel('Modelos', fontsize =14)
+plt.ylabel('Precos', fontsize =14)
+
+plt.bar(x,y)
+plt.plot(x,y)
+
+plt.show()
