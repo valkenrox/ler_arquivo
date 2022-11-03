@@ -1,0 +1,5 @@
+vendedor,empresa,modelo,preco
+Daniel_Paulo,Apple,IPHONE14,14000
+Pedro_Carlos,Apple,IPHONE12,10000
+Andressa_Souza,Samsung,A22,3000
+Igor_Gomes,Samsung,A23,8000
